@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: docker-in-5-steps-todo-rest-api-h2
+Implementation-Version: 1.0.0.RELEASE
+Built-By: Bharath BK
+Implementation-Vendor-Id: com.in28minutes.rest.webservices
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/docker-in-5-steps-todo-rest-api-h2
+Created-By: Maven Integration for Eclipse
+

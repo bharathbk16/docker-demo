@@ -3,7 +3,7 @@ COPY pom.xml /tmp/
 RUN mvn -f /tmp/pom.xml
 COPY src /tmp/src/
 WORKDIR /tmp/
-RUN mvn package
+RUN mvn clean install
 
 FROM java:8-jre-alpine
 
